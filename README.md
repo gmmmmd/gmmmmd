@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=gmmmmd)
+![](https://visitor-badge.glitch.me/badge?page_id=gmmmmd.gmmmmd)
 
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=gmmmmd&style=flat-square&color=blue"/>

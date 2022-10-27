@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div id="badges">
   <img src="https://komarev.com/ghpvc/?username=gmmmmd&style=flat-square&color=blue" alt=""/>
 </div>

@@ -4,20 +4,6 @@
 </h1>
 
 <div align="center">
-   <span>
-      My contacts:     
-   </span>
-   
-   <a href="https://t.me/gmmmmd">
-      <img src="https://simpleicons.org/icons/telegram.svg" title="Telegram" **alt="Telegram" width="30" height="30"/>
-   </a>
-   
-   <a href="mailto:zoopark86@yandex.ru">
-      <img src="https://simpleicons.org/icons/gmail.svg" title="Mail" **alt="Mail" width="30" height="30"/>
-   </a>
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -34,4 +20,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg"  title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+</div>
+
+<div align="left">
+   <h2>
+      My contacts:     
+   </h2>
+   
+   <a href="https://t.me/gmmmmd">
+      <img src="https://simpleicons.org/icons/telegram.svg" title="Telegram" **alt="Telegram" width="30" height="30"/>
+   </a>
+   
+   <a href="mailto:zoopark86@yandex.ru">
+      <img src="https://simpleicons.org/icons/gmail.svg" title="Mail" **alt="Mail" width="30" height="30"/>
+   </a>
 </div>

@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=gmmmmd.gmmmmd)
 
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=gmmmmd&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?gmmmmd&style=flat-square&color=blue"/>
 </div>

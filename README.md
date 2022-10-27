@@ -21,12 +21,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
 
-<h1 align="center">
-   Contacts
-</h1>
-[<img width="22px" alt="Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/gmmmmd)
-[<img width="22px" alt="Email" src="https://simpleicons.org/icons/gmail.svg" />](zoopark86@yandex.ru)
-
 <div align="center">
    <h1>
       Contacts
@@ -34,7 +28,7 @@
    <a href="https://t.me/gmmmmd">
       <img src="https://simpleicons.org/icons/telegram.svg" title="Telegram" **alt="Telegram" width="40" height="40"/>
    </a>
-
-   [<img width="22px" alt="Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/gmmmmd)
-   [<img width="22px" alt="Email" src="https://simpleicons.org/icons/gmail.svg" />](zoopark86@yandex.ru)
+   <a href="mailto:zoopark86@yandex.ru">
+      <img src="https://simpleicons.org/icons/gmail.svg" title="Mail" **alt="Mail" width="40" height="40"/>
+   </a>
 </div>

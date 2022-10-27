@@ -31,6 +31,10 @@
    <h1>
       Contacts
    </h1>
+   <a href="https://t.me/gmmmmd">
+      <img src="https://simpleicons.org/icons/telegram.svg" title="Telegram" **alt="Telegram" width="40" height="40"/>
+   </a>
+
    [<img width="22px" alt="Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/gmmmmd)
-[<img width="22px" alt="Email" src="https://simpleicons.org/icons/gmail.svg" />](zoopark86@yandex.ru)
+   [<img width="22px" alt="Email" src="https://simpleicons.org/icons/gmail.svg" />](zoopark86@yandex.ru)
 </div>

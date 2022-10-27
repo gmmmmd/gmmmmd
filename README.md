@@ -22,7 +22,10 @@
 </div>
 
 ## Contacts
-[<img align="left" width="22px" alt="Telegram" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
-[<img align="left" width="22px" alt="Email" src="https://simpleicons.org/icons/gmail.svg" />](zoopark86@yandex.ru)
+<div align="center">
+   [<img align="left" width="22px" alt="Telegram" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
+   [<img align="left" width="22px" alt="Email" src="https://simpleicons.org/icons/gmail.svg" />](zoopark86@yandex.ru)
 
-[telegram]: https://t.me/gmmmmd
+   [telegram]: https://t.me/gmmmmd
+</div>
+

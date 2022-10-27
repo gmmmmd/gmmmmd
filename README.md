@@ -22,9 +22,9 @@
 </div>
 
 <div align="center">
-   <h1>
+   <span>
       Contacts
-   </h1>
+   </span>
    <a href="https://t.me/gmmmmd">
       <img src="https://simpleicons.org/icons/telegram.svg" title="Telegram" **alt="Telegram" width="40" height="40"/>
    </a>

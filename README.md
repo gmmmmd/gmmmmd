@@ -22,16 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
 
-<div align="left">
-   <h2>
-      My contacts:     
-   </h2>
-   
-   <a href="https://t.me/gmmmmd">
-      <img src="https://simpleicons.org/icons/telegram.svg" title="Telegram" **alt="Telegram" width="30" height="30"/>
-   </a>
-   
-   <a href="mailto:zoopark86@yandex.ru">
-      <img src="https://simpleicons.org/icons/gmail.svg" title="Mail" **alt="Mail" width="30" height="30"/>
-   </a>
-</div>
+## My contacts: 
+[<img align="left" width="22px" alt="Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/gmmmmd)
+[<img align="left" width="22px" alt="Email" src="https://simpleicons.org/icons/gmail.svg" />](zoopark86@yandex.ru)
+

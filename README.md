@@ -23,12 +23,6 @@
 </div>
 
 ## Contacts
-[<img align="left" width="22px" | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/gmmmmd)
-[<img align="left" width="22px" | Email" src="https://simpleicons.org/icons/gmail.svg" />](zoopark86@yandex.ru)
-
-![](https://visitor-badge.glitch.me/badge?page_id=gmmmmd)
-
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?gmmmmd&style=flat-square&color=blue"/>
-</div>
+<img align="left" width="22px" | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/gmmmmd)
+<img align="left" width="22px" | Email" src="https://simpleicons.org/icons/gmail.svg" />](zoopark86@yandex.ru)
 

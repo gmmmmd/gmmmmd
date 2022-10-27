@@ -5,7 +5,7 @@
 
 <div align="center">
    <span>
-      Contacts:
+      <h2>Contacts:</h2>      
    </span>
    
    <a href="https://t.me/gmmmmd">

@@ -21,26 +21,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
-<!--
-**gmmmmd/gmmmmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Contacts
+[<img align="left" width="22px" | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/gmmmmd)
+[<img align="left" width="22px" | Email" src="https://simpleicons.org/icons/gmail.svg" />](zoopark86@yandex.ru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://visitor-badge.glitch.me/badge?page_id=gmmmmd.gmmmmd)
+![](https://visitor-badge.glitch.me/badge?page_id=gmmmmd)
 
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?gmmmmd&style=flat-square&color=blue"/>
 </div>
-## Contacts
-[<img align="left" width="22px" | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/gmmmmd)
-[<img align="left" width="22px" | Email" src="https://simpleicons.org/icons/gmail.svg" />](zoopark86@yandex.ru)
+
